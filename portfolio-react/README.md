@@ -37,11 +37,11 @@ npm install
 ```
 3. Start development server
 ```bash
--npm run dev
+npm run dev
 ```
 4. Build for production
 ```bash
--npm run build
+npm run build
 ```
 
 🚀 Deployment
