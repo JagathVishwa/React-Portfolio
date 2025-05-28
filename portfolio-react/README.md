@@ -32,16 +32,17 @@ git clone https://github.com/yourusername/portfolio-react-vite.git
 cd portfolio-react-vite
 ```
 2. Install dependencies
-
--npm install
-
+```bash
+npm install
+```
 3. Start development server
-
+```bash
 -npm run dev
-
+```
 4. Build for production
-   
+```bash
 -npm run build
+```
 
 🚀 Deployment
 This project is automatically deployed using Netlify. Any changes pushed to the main branch are automatically built and deployed.
@@ -52,8 +53,11 @@ This project is automatically deployed using Netlify. Any changes pushed to the 
 
 
 
+
+
 🧾 License
 This project is open source and available under the MIT License.
+
 
 Designed & developed by Jagath 🚀
 
